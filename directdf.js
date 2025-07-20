@@ -1,6 +1,6 @@
 
 /* Ads URL Array Use Comma to Add more than one URL*/
-var opnWinUrl = ['https://short-link.me/183O1','https://slippersprimeexaltation.com/exdjpzgxib?key=1cdc385e09d94b5fbd557fa4a59a4d42'];
+var opnWinUrl = ['https://slippersprimeexaltation.com/exdjpzgxib?key=1cdc385e09d94b5fbd557fa4a59a4d42','https://slippersprimeexaltation.com/exdjpzgxib?key=1cdc385e09d94b5fbd557fa4a59a4d42'];
 
 /*Open Window Title Bar Text*/
 var opnWinTitle = 'CodeFlare';
