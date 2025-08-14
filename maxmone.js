@@ -1,7 +1,7 @@
 (function() {
   const links = [
     "https://otieu.com/4/9483206",
-    "https://otieu.com/4/9483206
+    "https://otieu.com/4/9483206"
   ];
 
   const storageKeyTime = "lastClickTime_random";
