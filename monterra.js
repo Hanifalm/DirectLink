@@ -250,4 +250,3 @@ function initSafePopup() {
 }
 
 window.addEventListener('load', initSafePopup);
-</script>
